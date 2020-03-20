@@ -1,0 +1,13 @@
+#panel{
+    -fx-background-color:blue;
+}
+.button{
+    -fx-color:yellow;
+    -fx-padding:30px;
+    -fx-border-radius:50%;
+}
+
+#zdravo {
+    -fx-font-size:20px;
+    -fx-text-fill:red;
+}
